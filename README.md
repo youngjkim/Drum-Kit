@@ -10,3 +10,6 @@ You can either use your keyboard to play the drum sounds according to the letter
 
 OR you can simply click on each image to play the sound.
 
+## Github Page
+
+https://youngjkim.github.io/Drum-Kit/
